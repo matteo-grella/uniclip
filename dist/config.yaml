@@ -17,7 +17,6 @@ brews:
   commit_author:
     name: goreleaserbot
     email: goreleaser@carlosbecker.com
-  folder: uniclip
   install: bin.install "uniclip"
   description: Cross-platform shared clipboard
   homepage: https://github.com/quackduck/uniclip
