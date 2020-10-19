@@ -9,6 +9,19 @@ milestones:
     owner: quackduck
     name: uniclip
   name_template: '{{ .Tag }}'
+brews:
+- name: uniclip
+  tap:
+    owner: quackduck
+    name: homebrew-quackduck
+  commit_author:
+    name: goreleaserbot
+    email: goreleaser@carlosbecker.com
+  folder: uniclip
+  install: bin.install "uniclip"
+  description: Cross-platform shared clipboard
+  homepage: https://github.com/quackduck/uniclip
+  goarm: "6"
 scoop:
   name: uniclip
   commit_author:
