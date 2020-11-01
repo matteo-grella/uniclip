@@ -13,7 +13,7 @@ brews:
 - name: uniclip
   tap:
     owner: quackduck
-    name: homebrew-quackduck
+    name: homebrew-tap
   commit_author:
     name: goreleaserbot
     email: goreleaser@carlosbecker.com
