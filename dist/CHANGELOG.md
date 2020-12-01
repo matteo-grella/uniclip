@@ -2,6 +2,8 @@
 
 ## Changelog
 
-eb88205 Add verbose option and make it so that the clipboard never gets deleted
-9ffbf24 Update executables
+f4ad728 Add Termux support
+f97c81b Add help output to README.md
+ac90474 Add issue templates
+87e4590 Update issue templates
 
