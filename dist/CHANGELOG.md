@@ -1,9 +1,5 @@
-
-
 ## Changelog
 
-f4ad728 Add Termux support
-f97c81b Add help output to README.md
-ac90474 Add issue templates
-87e4590 Update issue templates
-
+2e7d422 Add Android documentation and move stuff around in the README
+c3465dc Fix Uniclip on Termux
+c7b5b75 Update executables
